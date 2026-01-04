@@ -48,7 +48,8 @@ The dashboard enables management to quickly understand revenue trends, profitabi
 - Focus marketing efforts on high-margin sub-categories.
 
  🖼 Dashboard Preview
-<img width="1366" height="768" alt="2026-01-05" src="https://github.com/user-attachments/assets/0b2057d6-1fce-4300-90b5-491299d20c74" />
+<img width="1020" height="564" alt="Dashboard Pic 1" src="https://github.com/user-attachments/assets/89ede7cc-462f-4ace-a99f-517476ecefa4" />
+
 
 
 ## 🚀 Conclusion
